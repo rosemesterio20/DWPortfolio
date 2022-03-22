@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -37,7 +37,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-02-20_1351",
+    "name": "Site-02-20_1351-clone",
     "versionFirst": "5.6.0",
     "siteFonts": [
       {
